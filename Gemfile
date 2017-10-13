@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-ruby '2.3.0'
+source 'https://rubygems.org'
+ruby '2.4.1'
 
 group :test do
   gem 'ci_reporter'

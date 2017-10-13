@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     ansi (1.5.0)
     builder (3.2.3)
@@ -27,7 +28,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.3.0p0
+   ruby 2.4.1p111
 
 BUNDLED WITH
    1.15.4
