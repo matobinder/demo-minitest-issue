@@ -16,3 +16,5 @@ Other than what is in my Gemfile.lock. I am using
 - CentOS 7.4
 - rbenv 1.1.1-6-g2d7cefe
 
+I did try update ruby. Same thing Used
+- ruby 2.4.1p111
