@@ -3,8 +3,8 @@ This was created to demo a issue I noticed in minitest-reporter gem
 
 So I have Gemfile locked down to 1.1.18 in this example. If you run "rake"
 
-You will see that it does create the target/unit directory as specified in the Rakefile for CI_REPORTS
-But doesn't crate any xml file reports
+You will see that it does create the target/unit directory as specified in the Rakefile for CI_REPORTS.
+But doesn't crate any xml file reports(should be jsut one)
 
 If you edit the Gemfile, swap arround the 1.1.18 for 1.1.17 verison for minitest-reporters. Rerun ```bundle install```
 
